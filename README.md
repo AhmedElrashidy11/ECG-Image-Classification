@@ -92,6 +92,7 @@ streamlit run app.py
 **Ahmed Elrashidy**  
 Data Science & AI Engineer – Zewail City  
 [GitHub](https://github.com/AhmedElrashidy11) • [LinkedIn](https://www.linkedin.com/in/ahmedelrashidy)
+
 **Mariam Mohamed**
 Data Science & AI Engineer – Zewail City
 [LinkedIn](https://www.linkedin.com/in/mariamgoda)
