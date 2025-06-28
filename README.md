@@ -95,6 +95,7 @@ Data Science & AI Engineer – Zewail City
 
 **Mariam Mohamed**
 Data Science & AI Engineer – Zewail City
+
 [LinkedIn](https://www.linkedin.com/in/mariamgoda)
 
 ---
