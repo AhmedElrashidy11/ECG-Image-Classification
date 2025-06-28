@@ -1,6 +1,6 @@
+# ECG Image Classification using Deep Learning 🫀📊
 
 ```markdown
-# ECG Image Classification using Deep Learning 🫀📊
 
 This project classifies ECG images into multiple clinical categories using a Convolutional Neural Network (CNN).  
 It was developed as part of the **DSAI 308** course at Zewail City.
@@ -96,6 +96,9 @@ streamlit run app.py
 Data Science & AI Engineer – Zewail City
 [GitHub](https://github.com/AhmedElrashidy11) • [LinkedIn](https://www.linkedin.com/in/ahmedelrashidy)
 
+**Mariam Mohamed**
+Data Science & AI Engineer – Zewail City
+[LinkedIn](https://www.linkedin.com/in/mariamgoda)
 ---
 
 ## 🧠 License
