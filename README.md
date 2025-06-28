@@ -68,10 +68,18 @@ streamlit run app.py
 
 ## 📊 Model Evaluation
 
-| Class                                                            | Precision | Recall | F1-score |
-|------------------------------------------------------------------|-----------|--------|----------|
-| ECG Images of Myocardial Infarction Patients (240x12=2880)       | 1.00      | 1.00   | 1.00     |
-| ECG Images of Patients with History of MI (172x12=2064)          | 0.96      | 1.00   | 0.98     |
+The model was evaluated on a test set of 928 ECG images across 4 classes:
+
+| Class                                                                 | Precision | Recall | F1-score | Support |
+|-----------------------------------------------------------------------|-----------|--------|----------|---------|
+| ECG Images of Myocardial Infarction Patients (240x12 = 2880)         | 1.00      | 1.00   | 1.00     | 239     |
+| ECG Images of Patients with History of MI (172x12 = 2064)            | 0.96      | 1.00   | 0.98     | 172     |
+| ECG Images of Patients with Abnormal Heartbeat (233x12 = 2796)       | 0.99      | 1.00   | 1.00     | 233     |
+| Normal Person ECG Images (284x12 = 3408)                             | 1.00      | 0.96   | 0.98     | 284     |
+
+**Overall Accuracy:** `0.99` (on 928 test samples)  
+**Macro Avg:** Precision = `0.99`, Recall = `0.99`, F1-score = `0.99`  
+**Weighted Avg:** Precision = `0.99`, Recall = `0.99`, F1-score = `0.99`
 
 ---
 
