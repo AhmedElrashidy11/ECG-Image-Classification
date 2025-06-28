@@ -1,7 +1,7 @@
 
 # 🫀 ECG Image Classification using Deep Learning
 
-This project classifies ECG images into different clinical categories using a Convolutional Neural Network (CNN). It was developed as part of the **DSAI 308** course at Zewail City – Year 3, Semester 2.
+This project classifies ECG images into different clinical categories using a Convolutional Neural Network (CNN).
 
 ---
 
@@ -95,7 +95,6 @@ Data Science & AI Engineer – Zewail City
 
 **Mariam Mohamed**
 Data Science & AI Engineer – Zewail City
-
 [LinkedIn](https://www.linkedin.com/in/mariamgoda)
 
 ---
